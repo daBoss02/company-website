@@ -5,7 +5,7 @@ A collaborative project of a mock up company page.
 Made by: [Seth Vandenbos](https://github.com/daBoss02), [Enjae Antonio](https://github.com/EnjaeAntonio) and [Brendan Galman](https://github.com/brendantyler).
 ### Demo
 
-Click [here](https://brendantyler.github.io/company-website/) to visit the site.
+Click [here](https://daboss02.github.io/team-jdm-site/) to visit the site.
 
 <br>
 
